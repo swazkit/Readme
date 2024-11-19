@@ -81,7 +81,7 @@ I specialize in:
 
 ## 💬 Fun Fact
 
-_"Code is like humor. When you have to explain it, it’s bad."_ 😄  
+_"Bugs don't even exist, it's allways a feature"_ 
 
 ---
 
