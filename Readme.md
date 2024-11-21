@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Swazkit Ray Choudhuri!</h1>
+<h1 align="center">👋 Hi, I'm Swastik Ray Choudhuri!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+Designer;Passionate+Web+Innovator;Building+Interactive+Experiences" alt="Typing SVG" />
 </p>
